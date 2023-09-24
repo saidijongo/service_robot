@@ -106,8 +106,8 @@ class CocktailBartenderRobotGUI:
         details_window.geometry("500x500")
 
         # Calculate the position for the top-level window on the right-hand side
-        window_x = button_x + 220  # Adjust this value as needed
-        window_y = button_y + 50
+        window_x = button_x + 220
+        window_y = button_y + 30
 
         details_window.geometry(f"+{window_x}+{window_y}")
 
