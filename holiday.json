@@ -1,0 +1,126 @@
+{
+  "AMF": {
+    "image_url": "https://www.wickiwackiwoo.com/wp-content/uploads/2022/09/ADIOS-MF-BLOG.jpg",
+    "imgpath": "/home/damin/Desktop/cbr/images/adiosmf.png",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "quantity": 15,
+        "motor": 1
+      },
+      {
+        "name": "White Rum",
+        "quantity": 15,
+        "motor": 3
+      },
+      {
+        "name": "Tequila",
+        "quantity": 15,
+        "motor": 4
+      },
+      {
+        "name": "Gin",
+        "quantity": 15,
+        "motor": 2
+      },
+      {
+        "name": "Blue Curacao",
+        "quantity": 15,
+        "motor": 5
+      },
+      {
+        "name": "Simple Syrup",
+        "quantity": 15,
+        "motor": 11
+      },
+      {
+        "name": "Sour Juice",
+        "quantity": 30,
+        "motor": 8
+      }
+    ]
+  },
+  "Long Island Ice Tea": {
+    "image_url": "https://www.supergoldenbakes.com/wordpress/wp-content/uploads/2019/07/Long_island_iced_tea-1-4s.jpg",
+    "imgpath": "/home/damin/Desktop/cbr/images/longisland.png",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "quantity": 15,
+        "motor": 1
+      },
+      {
+        "name": "White Rum",
+        "quantity": 15,
+        "motor": 3
+      },
+      {
+        "name": "Tequila",
+        "quantity": 15,
+        "motor": 3
+      },
+      {
+        "name": "Gin",
+        "quantity": 15,
+        "motor": 2
+      },
+      {
+        "name": "Triple Sec",
+        "quantity": 15,
+        "motor": 5
+      },
+      {
+        "name": "Sour Juice",
+        "quantity": 75,
+        "motor": 8
+      }
+    ]
+  },
+  "Peach Crush": {
+    "image_url": "https://api.cocktails.de/sites/default/files/styles/is_detail/public/peach-crush_8.jpg?itok=476ciHei",
+    "imgpath": "x",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "quantity": 30,
+        "motor": 1
+      },
+      {
+        "name": "Peach Schnapps",
+        "quantity": 30,
+        "motor": 6
+      },
+      {
+        "name": "Cranberry Juice",
+        "quantity": 60,
+        "motor": 10
+      },
+      {
+        "name": "Sour Juice",
+        "quantity": 60,
+        "motor": 8
+      }
+    ]
+  },
+  "Midori Sour": {
+    "image_url": "https://www.liquor.com/thmb/q_RYLYqrYZkHSCoHu98C-h42kbQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2019__04__04101555__Midori-Sour-720x720-recipe-8286cb7ef2be40f98ad359f49d7943a3.jpg",
+    "imgpath": "/home/damin/Desktop/cbr/images/midorisour.png",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "quantity": 15,
+        "motor": 1
+      },
+      {
+        "name": "Midori Melon Liqueur",
+        "quantity": 60,
+        "motor": 8
+      },
+      {
+        "name": "Sour Juice",
+        "quantity": 60,
+        "motor": 8
+      }
+    ]
+  }
+}
